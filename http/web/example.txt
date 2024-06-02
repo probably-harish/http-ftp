@@ -1,0 +1,6 @@
+Hello, this is some text http://localhost:8080/examples.tx
+;
+D
+
+
+curl -X POST -d Hello,Hello, this is some text!
